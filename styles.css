@@ -1,0 +1,284 @@
+* {
+    margin: -6px;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+#container {
+    background: url(./Img/netflix.png);
+    padding-top: 0px;
+    padding-bottom: 40px;
+}
+
+#logo-netflix {
+    height: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: 0;
+    border-radius: 50px;
+}
+
+#botao-entrar {
+    background-color: #e50914;
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: 0;
+    border-radius: 10px;
+    float: right;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#cabecalho {
+    padding: 5px 30px ;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    width: 1380px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+
+.parágrafo-um {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 14px;
+}
+
+.parágrafo-dois {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 24px;
+}
+
+#input {
+    width: 250;
+    right: 150px;
+    cursor: pointer;
+}
+
+.big-font {
+    font-size: 10px;    
+    padding-left: 10px;
+}
+
+#botao-email {
+    background-color: #e50914;
+    width: 90px;
+    height: 25px;
+    font-size: 15px;
+    border: 0;
+    cursor: pointer;
+    text-align: center;
+}
+
+#botao-email:hover {
+    background-color: green;
+    cursor: pointer;
+}
+
+#formulario {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-size: 30px;    
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#rodape {
+    background-color: black;
+    border-top: 10px solid #303030;
+    padding: 70px 0 10px ;    
+}
+
+h2 {
+    margin-top: -65px;
+    font-size: 30px;
+    text-align: center;
+}
+
+#botao-pergunta-1 {
+    width: 350px;
+    background-color: #303030;
+    height: 20px;
+    border: 0;
+    font-size: 15px;
+    margin-top: 25px;
+    text-align: left;
+    padding: 0 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    cursor: pointer;
+    display: block;
+}
+
+.imagem {
+    border-radius: 25px;
+    margin-top: -2px;
+    float: right;   
+    max-width: 20px;
+    transform: rotate(0deg)
+}
+
+.imagem-girar {
+    transform: rotate(90deg);
+    transition: transform 0.3s ease; /* Para uma transição suave */
+}
+
+#resposta-1 {
+    width: 350px;
+    background-color: #303030;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3px;
+    padding: 3px;
+    font-size: 15px;    
+    display: none;
+}
+
+#botao-pergunta-2 {
+    width: 350px;
+    background-color: #303030;
+    height: 20px;
+    border: 0;
+    font-size: 15px;
+    margin-top: 25px;
+    text-align: left;
+    padding: 0 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    cursor: pointer;
+    display: block;
+}
+
+#resposta-2 {
+    width: 350px;
+    background-color: #303030;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3px;
+    padding: 3px;
+    font-size: 15px;    
+    display: none;
+}
+
+#botao-pergunta-3 {
+    width: 350px;
+    background-color: #303030;
+    height: 20px;
+    border: 0;
+    font-size: 15px;
+    margin-top: 25px;
+    text-align: left;
+    padding: 0 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    cursor: pointer;
+    display: block;
+}
+
+#resposta-3 {
+    width: 350px;
+    background-color: #303030;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3px;
+    padding: 3px;
+    font-size: 15px;    
+    display: none;
+}
+
+#botao-pergunta-4 {
+    width: 350px;
+    background-color: #303030;
+    height: 20px;
+    border: 0;
+    font-size: 15px;
+    margin-top: 25px;
+    text-align: left;
+    padding: 0 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    cursor: pointer;
+    display: block;
+}
+
+#resposta-4 {
+    width: 350px;
+    background-color: #303030;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3px;
+    padding: 3px;
+    font-size: 15px;    
+    display: none;
+}
+
+#botao-pergunta-5 {
+    width: 350px;
+    background-color: #303030;
+    height: 20px;
+    border: 0;
+    font-size: 15px;
+    margin-top: 25px;
+    text-align: left;
+    padding: 0 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    cursor: pointer;
+    display: block;
+}
+
+#resposta-5 {
+    width: 350px;
+    background-color: #303030;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3px;
+    padding: 3px;
+    font-size: 15px;    
+    display: none;
+}
+
+#botao-pergunta-6 {
+    width: 350px;
+    background-color: #303030;
+    height: 20px;
+    border: 0;
+    font-size: 15px;
+    margin-top: 25px;
+    text-align: left;
+    padding: 0 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    cursor: pointer;
+    display: block;
+}
+
+#resposta-6 {
+    width: 350px;
+    background-color: #303030;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3px;
+    padding: 3px;
+    font-size: 15px;    
+    display: none;
+}
