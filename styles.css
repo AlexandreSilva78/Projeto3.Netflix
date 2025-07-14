@@ -8,7 +8,7 @@
 #container {
     background: url(./Img/netflix.png);
     padding-top: 0px;
-    padding-bottom: 164px;
+    padding-bottom: 84px;
 }
 
 #logo-netflix {
@@ -37,7 +37,7 @@
 }
 
 #cabecalho {
-    padding: 5px 30px ;
+    padding: 10px 30px ;
 }
 
 h1 {
@@ -99,7 +99,7 @@ h1 {
 #rodape {
     background-color: black;
     border-top: 10px solid #303030;
-    padding: 70px 0 50px ;    
+    padding: 70px 0 120px ;    
 }
 
 h2 {

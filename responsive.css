@@ -1,18 +1,123 @@
-@media screen and (max-width: 780px;) {
+@media screen and (max-width: 780px) {
     body {
-        max-width: 100vh;
-        max-height: 100vh;
+        max-width: 100vw;
+        max-height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     #container {
         width: 95%;
-        height: 50%;
-        top: 0;
+        height: 415px;
+        margin: 10px;
+    }
+
+    #logo-netflix {
+        width: 40%;
+        height: auto;
+    }
+
+    #botao-entrar {
+        width: 25%;
+        height: 20px;
+        font-size: 70%;
+        text-align: center;
+        display: flex;
+        justify-content: center; 
+        align-items: center;
+    }
+
+    h1 {
+        width: 60%;
+        height: 100px;
+        font-size: 25px;
+        position: relative;
+        text-align: center;
+        margin-left: auto;
+        letter-spacing: 0px;
+        word-spacing: 1px;
+    }
+
+    .parágrafo-um {
+        width: 70%;
+        font-size: 25px;
+        margin-left: 15%;
+    }
+
+    
+    .parágrafo-dois {
+        width: 60%;
+        font-size: 20px;
+        margin-left: 20%;
+    }
+
+    .big-font {
+    font-size: 8px;
+    padding-left: 11px;
+    }
+
+    #botao-email {
+        width: 30px;
+        font-size: 10px;
+        cursor: pointer;
+        text-align: right;
     }
 
     #rodape {
-        width: 95%;
+        width: 100%;
         height: 50%;
-        margin-top: 50%;
+        padding-bottom: 30px;
+        margin: -10px;
     }
+
+    #botao-pergunta-1 {
+        width: 300px;
+    }
+
+    #resposta-1 {
+        width: 260px;
+    }
+
+    #botao-pergunta-2 {
+        width: 300px;
+    }
+
+    #resposta-2 {
+        width: 260px;
+    }
+
+    #botao-pergunta-3 {
+        width: 300px;
+    }
+
+    #resposta-3 {
+        width: 260px;
+    }
+
+    #botao-pergunta-4 {
+        width: 300px;
+    }
+
+    #resposta-4 {
+        width: 260px;
+    }
+
+    #botao-pergunta-5 {
+        width: 300px;
+    }
+
+    #resposta-5 {
+        width: 260px;
+    }
+
+    #botao-pergunta-6 {
+        width: 300px;
+    }
+
+    #resposta-6 {
+        width: 260px;
+    }
+
+    
 }
