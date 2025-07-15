@@ -32,6 +32,11 @@ Este é um projeto de estudo onde foi recriada a interface da Netflix com foco e
 
 ## 🖼️ Preview do Projeto
 
+<br>
+<a href="https://alexandresilva78.github.io/Projeto3.Netflix/" target="_blank">
+  <button>Abrir Projeto Online</button>
+</a>
+<br>
 
 ### 📷 Visual em Desktop:
 <br>
@@ -83,10 +88,7 @@ Desktop: carrossel horizontal e navegação lado a lado
 
 Mobile: layout empilhado, carrossel por toque e botões visíveis
 
-<a href="https://alexandresilva78.github.io/Projeto3.Netflix/" target="_blank">
-  <button>Abrir Projeto Online</button>
-</a>
-<br>
+
 
 👨‍💻 Autor
 Alexandre Silva
