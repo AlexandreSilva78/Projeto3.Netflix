@@ -2,6 +2,11 @@
 
 Este é um projeto de estudo onde foi recriada a interface da Netflix com foco em responsividade e interatividade usando **HTML**, **CSS** e **JavaScript**.
 
+<a href="https://alexandresilva78.github.io/Projeto3.Netflix/" target="_blank">
+  <button>Abrir Projeto Online</button>
+</a>
+<br>
+
 ---
 
 ## 🧰 Tecnologias utilizadas
@@ -77,6 +82,11 @@ O layout é adaptável a telas de desktop e mobile:
 Desktop: carrossel horizontal e navegação lado a lado
 
 Mobile: layout empilhado, carrossel por toque e botões visíveis
+
+<a href="https://alexandresilva78.github.io/Projeto3.Netflix/" target="_blank">
+  <button>Abrir Projeto Online</button>
+</a>
+<br>
 
 👨‍💻 Autor
 Alexandre Silva
