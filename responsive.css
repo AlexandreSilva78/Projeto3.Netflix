@@ -8,18 +8,18 @@
     }
 
     #container {
-        width: 95%;
+        width: 100%;
         height: 415px;
         margin: 10px;
     }
 
     #logo-netflix {
-        width: 40%;
+        width: 15%;
         height: auto;
     }
 
     #botao-entrar {
-        width: 25%;
+        width: 10%;
         height: 20px;
         font-size: 70%;
         text-align: center;
@@ -53,15 +53,17 @@
     }
 
     .big-font {
-    font-size: 8px;
+    font-size: 10px;
     padding-left: 11px;
     }
 
     #botao-email {
-        width: 30px;
+        width: 60px;
         font-size: 10px;
-        cursor: pointer;
-        text-align: right;
+        cursor: pointer;        
+        display: flex;
+        align-items: center;
+        justify-content: center
     }
 
     #rodape {
